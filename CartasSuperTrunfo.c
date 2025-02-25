@@ -22,3 +22,4 @@ printf("provincia: %c\n" , provincia1);
 printf("Código: %s\n", codigo1);
 printf("Nome da Cidade: %s\n", nomeCidade1);
 printf("População: %d\n", populacao1);
+printf("Área: %.2f km²\n", area1);
