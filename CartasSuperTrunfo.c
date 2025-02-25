@@ -20,6 +20,8 @@ float area2 = 431.5;
 float pib2 = 193.2;
 int pontosturisticos2 = 30;
 
+// exibir inforacos carta 1
+
 printf("\nCarta 1:\n");
 printf("provincia: %c\n" , provincia1);
 printf("Código: %s\n", codigo1);
