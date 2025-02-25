@@ -29,3 +29,4 @@ printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 printf("\nCarta 2:\n");
 printf("Província: %c\n", provincia2);
 printf("Código: %s\n", codigo2);
+printf("Nome da Cidade: %s\n", nomeCidade2);
