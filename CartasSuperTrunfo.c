@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    // Carta1
 char provincia1 = "O"; 
 char codigo1[] = O01 ;
 char nomecidade1 [] = "Toronto" ;
