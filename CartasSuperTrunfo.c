@@ -32,3 +32,4 @@ printf("Código: %s\n", codigo2);
 printf("Nome da Cidade: %s\n", nomeCidade2);
 printf("População: %d\n", populacao2);
 printf("Área: %.2f km²\n", area2);
+printf("PIB: %.2f bilhões de dólares canadenses\n", pib2);
