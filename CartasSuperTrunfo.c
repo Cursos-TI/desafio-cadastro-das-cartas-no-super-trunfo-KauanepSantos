@@ -31,6 +31,9 @@ printf("Área: %.2f km²\n", area1);
 printf("PIB: %.2f bilhões de dólares canadenses\n", pib1);
 printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
+// exibir informacoes carta 2
+
+
 printf("\nCarta 2:\n");
 printf("Província: %c\n", provincia2);
 printf("Código: %s\n", codigo2);
