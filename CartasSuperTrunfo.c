@@ -19,3 +19,4 @@ int pontosturisticos2 = 30;
 
 printf("\nCarta 1:\n");
 printf("provincia: %c\n" , provincia1);
+printf("Código: %s\n", codigo1);
