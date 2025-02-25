@@ -11,3 +11,4 @@ int pontosturisticos1 = 25;
 
 char provincia2 = 'Q';
 char codigo2 = "Q02";
+char nomecidade2 [] = "Montreal" ;
