@@ -15,3 +15,6 @@ char nomecidade2 [] = "Montreal" ;
 int populacao2 = 1780000;
 float area2 = 431.5;
 float pib2 = 193.2;
+int pontosturisticos2 = 30;
+
+printf("\nCarta 1:\n");
