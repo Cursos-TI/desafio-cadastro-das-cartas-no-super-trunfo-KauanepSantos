@@ -13,3 +13,4 @@ char provincia2 = 'Q';
 char codigo2 = "Q02";
 char nomecidade2 [] = "Montreal" ;
 int populacao2 = 1780000;
+float area2 = 431.5;
