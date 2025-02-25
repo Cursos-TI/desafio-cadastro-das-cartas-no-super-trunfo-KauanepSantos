@@ -27,3 +27,4 @@ printf("PIB: %.2f bilhões de dólares canadenses\n", pib1);
 printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
 printf("\nCarta 2:\n");
+printf("Província: %c\n", provincia2);
