@@ -2,7 +2,7 @@
 
 int main() {
     // Carta1
-char provincia1 = "O"; 
+char provincia1 = 'O'; 
 char codigo1[] = O01 ;
 char nomecidade1 [] = "Toronto" ;
 int populacao1 = 2930000;
