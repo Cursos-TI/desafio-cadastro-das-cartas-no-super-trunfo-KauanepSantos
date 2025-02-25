@@ -10,6 +10,8 @@ float area1 = 630.2 ;
 float pib1 =332.0;
 int pontosturisticos1 = 25;
 
+// Carta 2
+
 char provincia2 = 'Q';
 char codigo2 = "Q02";
 char nomecidade2 [] = "Montreal" ;
